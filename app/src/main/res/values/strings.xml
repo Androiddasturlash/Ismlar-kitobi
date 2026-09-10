@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Ismlar kitobi</string>
+    <string name="favorite_title">Sevimli ismlar</string>
+    <string name="search_hint">Qidirish</string>
+    <string name="favorite_empty">Sevimli ismlar yo\'q</string>
+    <string name="favorite_not_found">Sevimlilarda mavjud emas</string>
+    <string name="favorite_added">Sevimlilarga qo\'shildi</string>
+    <string name="favorite_removed">Sevimlilardan o\'chirildi</string>
+    <string name="copied">Nusxalandi</string>
+    <string name="share">Ulashish</string>
+    <string name="copy">Nusxalash</string>
+    <string name="favorite">Sevimli</string>
+    <string name="home">Bosh sahifa</string>
+    <string name="favorites">Sevimlilar</string>
+    <string name="other">Boshqa</string>
+    <string name="exit">Chiqish</string>
+    <string name="general">Umumiy</string>
+    <string name="application">Ilova</string>
+    <string name="lang">Til</string>
+    <string name="chooice_language">Ilova tilini tanlang</string>
+    <string name="share_friend">Ilovani do\'stlaringiz bilan ulashing</string>
+    <string name="nav_favorite">Sevimlilar</string>
+    <string name="fav">Sevimli ismlarni ko\'rish</string>
+    <string name="about">Ilova haqida</string>
+    <string name="version">1.0</string>
+    <string name="vibration_on">Tebranish yoqildi</string>
+    <string name="vibration_off">Tebranish o\'chirildi</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="select_language">Tilni tanlang</string>
+    <string name="favorite_just_removed">Bu sevimlini hozir o\'chirdingiz</string>
+    <string name="favorite_removed_earlier">Bu sevimlini biroz oldin o\‘chirdingiz</string>
+    <string name="name_search">Ismni kiriting...</string>
+    <string name="about_summary">Ilova haqida ma\'lumot</string>
+    <string name="about_text">Ushbu dastur o\‘zbek ismlarining ma\'nosi, kelib chiqishi va shakllari haqida ma\'lumot berish uchun yaratilgan. Ilova qulay qidiruv, sevimlilar ro\'yxati va tezkor navigatsiya imkoniyatlarini taqdim etadi.</string>
+</resources>

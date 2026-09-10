@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1080dp"
+    android:height="1920dp"
+    android:viewportWidth="1080"
+    android:viewportHeight="1920">
+
+    <!-- Ko'k fon -->
+    <path
+        android:fillColor="#2F80ED"
+        android:pathData="M0,0H1080V1920H0Z"/>
+
+    <!-- Oq to'lqin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+        M0,720
+        C220,700 350,600 500,470
+        C690,300 860,420 1080,500
+        L1080,1920
+        L0,1920
+        Z"/>
+</vector>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Книга имен</string>
+    <string name="favorite_title">Избранные имена</string>
+    <string name="search_hint">Поиск</string>
+    <string name="favorite_empty">Нет избранных имен</string>
+    <string name="favorite_not_found">В избранном не найдено</string>
+    <string name="favorite_added">Добавлено в избранное</string>
+    <string name="favorite_removed">Удалено из избранного</string>
+    <string name="copied">Скопировано</string>
+    <string name="share">Поделиться</string>
+    <string name="copy">Копировать</string>
+    <string name="favorite">Избранное</string>
+    <string name="home">Главная</string>
+    <string name="favorites">Избранное</string>
+    <string name="other">Другое</string>
+    <string name="exit">Выход</string>
+    <string name="general">Общие</string>
+    <string name="application">Приложение</string>
+    <string name="lang">Язык</string>
+    <string name="chooice_language">Выберите язык приложения</string>
+    <string name="share_friend">Поделитесь приложением с друзьями</string>
+    <string name="nav_favorite">Избранное</string>
+    <string name="fav">Посмотреть избранное</string>
+    <string name="about">О приложении</string>
+    <string name="version">1.0</string>
+    <string name="vibration_on">Вибрация включена</string>
+    <string name="vibration_off">Вибрация</string>
+    <string name="settings">Настройки</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="favorite_just_removed">Вы только что удалили это из избранного</string>
+    <string name="favorite_removed_earlier">Вы недавно удалили это имя из избранного</string>
+    <string name="name_search">Введите имя...</string>
+    <string name="about_summary">О приложении</string>
+    <string name="about_text">Данное приложение создано для предоставления информации о значении, происхождении и формах узбекских имен. Приложение предлагает удобный поиск, список избранного и быструю навигацию.</string>
+</resources>
