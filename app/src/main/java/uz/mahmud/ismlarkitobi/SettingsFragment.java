@@ -112,7 +112,7 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 
                 Intent intent = new Intent(
                         Intent.ACTION_VIEW,
-                        android.net.Uri.parse("https://github.com/dasturchiuzb"));
+                        android.net.Uri.parse("https://github.com/Androiddasturlash/Ismlar-kitobi"));
 
                 startActivity(intent);
 

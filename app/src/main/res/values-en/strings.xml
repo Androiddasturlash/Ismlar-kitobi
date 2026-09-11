@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Namebook</string>
     <string name="favorite_title">Favorite Names</string>
+    <string name="name_dictionary">Uzbek names dictionary</string>
     <string name="search_hint">Search</string>
     <string name="favorite_empty">No favorite names</string>
     <string name="favorite_not_found">Not found in favorites</string>

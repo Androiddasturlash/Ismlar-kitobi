@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Ismlar kitobi</string>
     <string name="favorite_title">Sevimli ismlar</string>
+    <string name="name_dictionary">O\'zbekcha ismlar lug\'ati</string>
     <string name="search_hint">Qidirish</string>
     <string name="favorite_empty">Sevimli ismlar yo\'q</string>
     <string name="favorite_not_found">Sevimlilarda mavjud emas</string>

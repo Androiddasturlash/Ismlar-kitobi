@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Книга имен</string>
     <string name="favorite_title">Избранные имена</string>
+    <string name="name_dictionary">Словарь узбекских имен</string>
     <string name="search_hint">Поиск</string>
     <string name="favorite_empty">Нет избранных имен</string>
     <string name="favorite_not_found">В избранном не найдено</string>
