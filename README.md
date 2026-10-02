@@ -7,4 +7,4 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 
 ### 🎬 Dastur haqida video-qo'llanma:
 
-[![Videoni tomosha qilish](https://img.youtube.com/vi/VIDEO_ID_SHU_YERGA/youtube.png)](https://www.youtube.com/watch?v=E0AC-bFcKiE&t=78s)
+[![Videoni tomosha qilish](https://img.shields.io/badge/YouTube-Videoni_tomosha_qilish-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
