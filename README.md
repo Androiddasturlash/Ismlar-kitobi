@@ -5,6 +5,4 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AndroidDasturlashUZ2026)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/androidstudio2026)
 
-### 🎬 Видео-обзор проекта:
-
-[![Смотреть видео на YouTube](https://img.youtube.com/vi/ВАШ_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=E0AC-bFcKiE&t=78s)
+[![Смотреть видео](https://img.shields.io/badge/YouTube-Смотреть_видео-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=E0AC-bFcKiE&t=78s)
