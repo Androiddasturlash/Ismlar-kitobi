@@ -7,4 +7,4 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 
 ### 🎬 Video-qo'llanma:
 
-[![Videoni tomosha qilish](https://img.shields.io/badge/YouTube-Videoni_tomosha_qilish-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
+[![Videoni tomosha qilish](https://img.youtube.com/vi/E0AC-bFcKiE/hqdefault.jpg)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
