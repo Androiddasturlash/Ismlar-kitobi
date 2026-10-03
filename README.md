@@ -8,3 +8,5 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 ### 🎬 Video-qo'llanma:
 
 [![Videoni tomosha qilish](https://img.youtube.com/vi/E0AC-bFcKiE/hqdefault.jpg)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
+
+📄 [Dastur hujjatini ko'rish va yuklab olish (PDF)](Ismlar%20kitobi.pdf)
