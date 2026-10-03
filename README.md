@@ -9,4 +9,6 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 
 [![Videoni tomosha qilish](https://img.youtube.com/vi/E0AC-bFcKiE/hqdefault.jpg)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
 
-📄 [Dastur hujjatini ko'rish va yuklab olish (PDF)](Ismlar%20kitobi.pdf)
+📄 [Dastur (PDF) faylni yuklab olish](Ismlar%20kitobi.pdf)
+
+📄 [Dastur hujjatini ko'rish va yuklab olish (DOCX)](Ismlar%20kitobi.docx)
