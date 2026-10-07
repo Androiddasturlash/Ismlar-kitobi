@@ -9,6 +9,14 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 
 [![Videoni tomosha qilish](https://img.youtube.com/vi/E0AC-bFcKiE/hqdefault.jpg)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
 
+# Ismlar kitobi
+Ismlar kitobi dasturi android studio yordamida yaratilgan.
+Youtube Tutorial here : https://www.youtube.com/@AndroidDasturlashUZ2026
+
+![ismlarkitobi](<img width="357" height="560" alt="ismlarkitobi png" src="https://github.com/user-attachments/assets/98312771-666b-4040-972a-662f0b42391f" />
+)
+
+
 📄 [Dastur (PDF) faylni yuklab olish](Ismlar%20kitobi.pdf)
 
 📄 [Dastur hujjatini ko'rish va yuklab olish (DOCX)](Ismlar%20kitobi.docx)
