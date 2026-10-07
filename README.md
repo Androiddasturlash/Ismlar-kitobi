@@ -13,8 +13,7 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 Ismlar kitobi dasturi android studio yordamida yaratilgan.
 Youtube Tutorial here : https://www.youtube.com/@AndroidDasturlashUZ2026
 
-![ismlarkitobi](<img width="357" height="560" alt="ismlarkitobi png" src="https://github.com/user-attachments/assets/98312771-666b-4040-972a-662f0b42391f" />
-)
+<img width="357" height="560" alt="ismlarkitobi png" src="https://github.com/user-attachments/assets/3ff29b79-492d-4e98-adee-57bfb2843c89" />
 
 
 📄 [Dastur (PDF) faylni yuklab olish](Ismlar%20kitobi.pdf)
