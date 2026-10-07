@@ -5,16 +5,16 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AndroidDasturlashUZ2026)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/androidstudio2026)
 
+<img width="357" height="560" alt="ismlarkitobi png" src="https://github.com/user-attachments/assets/3ff29b79-492d-4e98-adee-57bfb2843c89" />
+
 ### 🎬 Video-qo'llanma:
 
 [![Videoni tomosha qilish](https://img.youtube.com/vi/E0AC-bFcKiE/hqdefault.jpg)](https://www.youtube.com/watch?v=E0AC-bFcKiE)
 
 # Ismlar kitobi
 Ismlar kitobi dasturi android studio yordamida yaratilgan.
+
 Youtube Tutorial here : https://www.youtube.com/@AndroidDasturlashUZ2026
-
-<img width="357" height="560" alt="ismlarkitobi png" src="https://github.com/user-attachments/assets/3ff29b79-492d-4e98-adee-57bfb2843c89" />
-
 
 📄 [Dastur (PDF) faylni yuklab olish](Ismlar%20kitobi.pdf)
 
