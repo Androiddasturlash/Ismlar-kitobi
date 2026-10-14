@@ -20,4 +20,4 @@ Youtube Tutorial here : https://www.youtube.com/@AndroidDasturlashUZ2026
 
 📄 [Dastur hujjatini ko'rish va yuklab olish (DOCX)](Ismlar%20kitobi.docx)
 
-🌐 **Bizning veb-saytimiz:** [Saytga o'tish]( https://androiddasturlash.github.io/Ismlar-kitobi/)
+🌐 **Bizning ismlar kitobi saytimiz:** [Saytga o'tish]( https://androiddasturlash.github.io/Ismlar-kitobi/)
